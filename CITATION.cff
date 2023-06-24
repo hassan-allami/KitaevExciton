@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Allami
+    given-names: Hassan
+    orcid: https://orcid.org/0000-0003-2859-7489
+title: "Kitaev Exciton"
+version: 1.0.0
+url: https://github.com/hassan-allami/Lossless-HMAs
+date-released: 2023-06-24
