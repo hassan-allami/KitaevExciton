@@ -1,5 +1,5 @@
 # KitaevExciton
-computes and plots Kitaev Excitons using exact diagonalization method
+computes and plots Kitaev Excitons spectra using exact diagonalization method
 
 ## File Description
 
